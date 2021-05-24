@@ -46,7 +46,7 @@ html {
     transform: translateY(200px);
 }
 #home1 .content-box .scroll-icon {
-    animation: scroll 1s linear infinite;
+    animation: scroll 1s ease infinite;
 }
 #home1 .home1 .circles {
     position: absolute;
